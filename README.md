@@ -125,6 +125,14 @@ The study evaluated the performance of individual and combined feature extractio
 
 ---
 
+## Technologies used
+-	Machine Learning: SVM, OpenCV, TensorFlow, GridSearchCV
+-	Deep Learning: CNN, VGG16, DenseNet121, Keras Tuner
+-	Image Processing: Feature extraction, segmentation, augmentation
+-	Programming Languages: Python (TensorFlow, OpenCV, NumPy, Scikit-Learn)
+
+---
+
 ## Conclusion
 
 The SVM classifier demonstrated robust performance in classifying tea leaf blight disease, proving effective when using a combination of color, texture, and shape features. Although CNN models achieved higher accuracies, they demanded significantly more computational resources. This comparative analysis provides valuable insights into the trade-offs between traditional machine learning and deep learning techniques in agricultural disease detection.
