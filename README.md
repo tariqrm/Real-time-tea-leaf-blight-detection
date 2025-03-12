@@ -1,8 +1,5 @@
 # Tea Leaf Blister Blight Detection Using SVM
 
-**Muthaliph T.R, Sucharitharathna .C, Dr. Wijesinghe E**  
-Dept. of Electrical and Electronic Engineering, Sri Lankan Institute of Information Technology, Sri Lanka
-
 ---
 
 ## Abstract
