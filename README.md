@@ -39,10 +39,13 @@ The dataset for this project was gathered from various tea plantations across Sr
   - **CNNs:** Tested with various architectures (including 2-layer, 4-layer models, and DenseNet121) using automated feature extraction.
   - **SVMs:** Employed with manually extracted features such as Color Layout Descriptor (CLD), Color Structure Descriptor (CSD), Homogeneous Texture Descriptor (HTD), edge histograms, RGB/HSV color histograms, pixel intensity variance, DCT features, color moments, dominant colors, simplified color layouts, and contour shape features. Hyperparameters were optimized via GridSearch cross-validation.
 
-- **Figure 1:** : Images collected via drone camera
+**Figure 1:** : Images collected via drone camera
+
 ![Picture1](images/Picture1.png)
 
-- **Figure 2:** : Smaller images of sizze 256x256
+
+**Figure 2:** : Smaller images of sizze 256x256
+
 ![Picture2](images/Picture2.png)
 
 
@@ -95,10 +98,13 @@ The study evaluated the performance of individual and combined feature extractio
 
 **Figures:**
 
-- **Figure 3:** TensorBoard HPARAMs coordinated view.
+**Figure 3:** TensorBoard HPARAMs coordinated view.
+
 ![Picture3](images/Picture3.png)
   
-- **Figure 4:** Epoch accuracy of all trial runs.
+
+**Figure 4:** Epoch accuracy of all trial runs.
+
 ![Picture4](images/Picture4.png)
 
 
